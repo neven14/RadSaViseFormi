@@ -1,0 +1,11 @@
+C:\Users\Učenik 5\source\repos\RadSaViseFormi\RadSaViseFormi\bin\Debug\RadSaViseFormi.exe.config
+C:\Users\Učenik 5\source\repos\RadSaViseFormi\RadSaViseFormi\bin\Debug\RadSaViseFormi.exe
+C:\Users\Učenik 5\source\repos\RadSaViseFormi\RadSaViseFormi\bin\Debug\RadSaViseFormi.pdb
+C:\Users\Učenik 5\source\repos\RadSaViseFormi\RadSaViseFormi\obj\Debug\RadSaViseFormi.csprojAssemblyReference.cache
+C:\Users\Učenik 5\source\repos\RadSaViseFormi\RadSaViseFormi\obj\Debug\RadSaViseFormi.FrmStudenti.resources
+C:\Users\Učenik 5\source\repos\RadSaViseFormi\RadSaViseFormi\obj\Debug\RadSaViseFormi.frmUnosNovogStudenta.resources
+C:\Users\Učenik 5\source\repos\RadSaViseFormi\RadSaViseFormi\obj\Debug\RadSaViseFormi.Properties.Resources.resources
+C:\Users\Učenik 5\source\repos\RadSaViseFormi\RadSaViseFormi\obj\Debug\RadSaViseFormi.csproj.GenerateResource.cache
+C:\Users\Učenik 5\source\repos\RadSaViseFormi\RadSaViseFormi\obj\Debug\RadSaViseFormi.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 5\source\repos\RadSaViseFormi\RadSaViseFormi\obj\Debug\RadSaViseFormi.exe
+C:\Users\Učenik 5\source\repos\RadSaViseFormi\RadSaViseFormi\obj\Debug\RadSaViseFormi.pdb
